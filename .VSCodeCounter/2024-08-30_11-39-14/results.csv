@@ -1,0 +1,24 @@
+"filename", "language", "TypeScript JSX", "XML", "CSS", "TypeScript", "JavaScript", "JSON with Comments", "JSON", "HTML", "Markdown", "comment", "blank", "total"
+"/Users/arharutyunyan/Desktop/welcome_yvnow/README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 0, 40, 0, 11, 51
+"/Users/arharutyunyan/Desktop/welcome_yvnow/eslint.config.js", "JavaScript", 0, 0, 0, 0, 27, 0, 0, 0, 0, 0, 2, 29
+"/Users/arharutyunyan/Desktop/welcome_yvnow/firebase.json", "JSON", 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 1, 13
+"/Users/arharutyunyan/Desktop/welcome_yvnow/index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 1, 14
+"/Users/arharutyunyan/Desktop/welcome_yvnow/package-lock.json", "JSON", 0, 0, 0, 0, 0, 0, 3974, 0, 0, 0, 1, 3975
+"/Users/arharutyunyan/Desktop/welcome_yvnow/package.json", "JSON", 0, 0, 0, 0, 0, 0, 34, 0, 0, 0, 1, 35
+"/Users/arharutyunyan/Desktop/welcome_yvnow/public/index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 172, 0, 7, 6, 185
+"/Users/arharutyunyan/Desktop/welcome_yvnow/public/vite.svg", "XML", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/App.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/App.tsx", "TypeScript JSX", 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 13
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/assets/react.svg", "XML", 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/components/AppActionButton/AppActionButton.module.css", "CSS", 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 15
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/components/AppActionButton/AppActionButton.tsx", "TypeScript JSX", 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 27
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/index.css", "CSS", 0, 0, 17, 0, 0, 0, 0, 0, 0, 0, 4, 21
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/main.tsx", "TypeScript JSX", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/page/AppInfo/AppInfo.module.css", "CSS", 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 22
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/page/AppInfo/AppInfo.tsx", "TypeScript JSX", 26, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 29
+"/Users/arharutyunyan/Desktop/welcome_yvnow/src/vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"/Users/arharutyunyan/Desktop/welcome_yvnow/tsconfig.app.json", "JSON", 0, 0, 0, 0, 0, 0, 20, 0, 0, 2, 3, 25
+"/Users/arharutyunyan/Desktop/welcome_yvnow/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 1, 8
+"/Users/arharutyunyan/Desktop/welcome_yvnow/tsconfig.node.json", "JSON", 0, 0, 0, 0, 0, 0, 18, 0, 0, 2, 3, 23
+"/Users/arharutyunyan/Desktop/welcome_yvnow/vite.config.ts", "TypeScript", 0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 68, 2, 54, 5, 27, 7, 4058, 185, 40, 13, 50, 4509
