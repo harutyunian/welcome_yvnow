@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import styles from "./AppActionButton.module.css";
+import ReactGA from "react-ga";
 
 interface IAppActionButtonProps {
   iconUrl?: string;
@@ -16,6 +17,11 @@ export default function AppActionButton(props: IAppActionButtonProps) {
     if (url) {
       window.open(url, "_blank");
     }
+    ReactGA.event({
+      category: "Button",
+      action: `Clicked ${marketName} Button`,
+      label: marketName,
+    });
   };
   return (
     <div className={styles.container} onClick={handleClick}>
